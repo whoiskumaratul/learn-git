@@ -1,6 +1,6 @@
 
-def add(a, b):
-    sum = a + b
-    print(sum)
+def sub(a, b):
+    res = a - b
+    print(res)
 
-add(5, 7)    
+sub(15, 7)    
